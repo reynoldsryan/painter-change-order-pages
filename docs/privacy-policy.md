@@ -23,9 +23,9 @@ This information stays on your device and is not sent to us or shared with third
 
 ## Permissions
 
-Painter Change Order may request photo library access so you can attach job-site photos to a request.
+Painter Change Order may request camera and photo library access so you can attach job-site photos to a request.
 
-The app does not request camera, microphone, contacts, location, or tracking permissions.
+The app does not request microphone, contacts, location, or tracking permissions.
 
 ## Purchases
 
